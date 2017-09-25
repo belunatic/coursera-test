@@ -1,0 +1,52 @@
+/*front page */
+
+
+/*header*/
+
+
+
+/*nav*/
+
+.navbar {
+    background: white;
+    border: none;
+}
+
+nav ul {
+    text-align: center;
+    line-height: 2;
+    padding: 20px 10px;
+}
+
+nav ul li {
+    display: inline-block;
+    text-align: center;
+    padding: 2px 15px 2px 15px;
+}
+
+nav ul li:hover,
+nav ul li a:hover {
+    border-radius: 2px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+/*content */
+
+
+
+/*footer*/
+
+#footerWrapper {
+    background: black;
+}
+
+footer p {
+    text-transform: uppercase;
+    opacity: 0.8;
+    color: white;
+    text-align: center;
+}
